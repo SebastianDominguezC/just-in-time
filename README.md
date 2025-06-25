@@ -1,4 +1,4 @@
-# Entanlgement aided transpilation of star qubit problems
+# Entanglement aided transpilation of star qubit problems
 
 Star qubit problems: 
 Those problems that have a qubit who has many control operations onto other qubits. It is the "star" of the show!
